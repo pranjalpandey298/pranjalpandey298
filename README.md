@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi, I'm Pranjal Pandey 👋
+
+I'm an aspiring **Data Analyst** from Bhopal, India. I enjoy turning raw data
+into clear insights that help people make better business decisions.
+
+- 📊 I build dashboards and analyses using **SQL, Python and Power BI**
+- 🌱 Currently learning **Data Structures & Algorithms** and strengthening my Python
+- 🎯 Looking for **data analyst / BI internship or entry-level opportunities**
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/pranjal-pandey-6945ab299)
 
 <!--
 **pranjalpandey298/pranjalpandey298** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
