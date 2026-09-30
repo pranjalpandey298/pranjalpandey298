@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on **data analysis, business intelligence, and beginner-friendly machine learning projects**
 - 🤔 I’m looking for help with **advanced SQL (window functions, query optimization), DSA problem-solving patterns, and building a strong analytics portfolio**
 - 💬 Ask me about **Power BI dashboards, exploratory data analysis, sales data analysis, and getting started in data analytics**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pranjal-pandey-6945ab299) or **your-email@example.com**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pranjal-pandey-6945ab299) or **pranjalpandey2982@gmail.com**
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **[add something personal, e.g. a hobby, a favorite food from Bhopal, or what got you into data]**
 
@@ -26,9 +26,7 @@
 - **[Superstore Sales Dashboard](https://github.com/pranjalpandey298/Superstore-sales1)**: interactive Power BI dashboard on sales, profitability, and customer trends
 - **[Real Estate Price Prediction](https://github.com/pranjalpandey298/Dragon-s-Real-Estate-price-prediction1)**: machine learning model to predict housing prices
 
-## 📈 GitHub Stats
 
-![Pranjal's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranjalpandey298&show_icons=true&theme=default)
 
 ---
 ⭐ Always learning, always building.
