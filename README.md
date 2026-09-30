@@ -8,6 +8,8 @@ into clear insights that help people make better business decisions.
 - 🎯 Looking for **data analyst / BI internship or entry-level opportunities**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/pranjal-pandey-6945ab299)
 
+- 
+- Projects - [Superstore Sales Dashboard](https://github.com/pranjalpandey298/superstore-sales-powerbi-dashboard): ...
 <!--
 **pranjalpandey298/pranjalpandey298** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
