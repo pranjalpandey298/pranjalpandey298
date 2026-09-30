@@ -10,7 +10,7 @@ into clear insights that help people make better business decisions.
 
 - 
 - Projects - [Superstore Sales Dashboard](https://github.com/pranjalpandey298/superstore-sales-powerbi-dashboard): ...
-<!--         - [Real Estate Price Prediction](https://github.com/pranjalpandey298/real-estate-price-prediction): machine learning model that predicts house prices from property features
+<!--       - [Real Estate Price Prediction](https://github.com/pranjalpandey298/real-estate-price-prediction): 
 **pranjalpandey298/pranjalpandey298** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
